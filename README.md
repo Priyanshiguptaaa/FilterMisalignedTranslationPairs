@@ -21,13 +21,13 @@ Misalignment, i.e., parallel sentence pairs that are not accurate translations o
 #### 1. Clone the repo
 
 ```bash
-git clone https://github.com/lengoo/research-engineer-coding-challeng-Priyanshiguptaaa.git
+git clone https://github.com/Priyanshiguptaaa/FilterMisalignedTranslationPairs.git
 ```
 
 #### 2. Navigate to the working directory
 
 ```bash
-cd research-engineer-coding-challeng-Priyanshiguptaaa/
+cd FilterMisalignedTranslationPairs
 ```
 
 #### 3. Create a virtual environment and activate it
