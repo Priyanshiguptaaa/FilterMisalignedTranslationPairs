@@ -13,7 +13,7 @@ Misalignment, i.e., parallel sentence pairs that are not accurate translations o
 
 ### System Overview
 
-<img align='center' src="https://github.com/lengoo/research-engineer-coding-challeng-Priyanshiguptaaa/blob/main/diagrams/system.png" width="700" height="680">
+<img align='center' src="https://github.com/Priyanshiguptaaa/FilterMisalignedTranslationPairs/blob/main/diagrams/system.png" width="700" height="680">
 
 
 ### Installation and Implementation
